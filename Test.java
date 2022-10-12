@@ -15,7 +15,7 @@ public class Test {
 			System.out.println("test");
 		};
 		
-		ar.forEach(cons);
+		//ar.forEach(cons);
 
 	}
 
